@@ -1,0 +1,12 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "Realtime Messaging Tessel blink example",
+  "main": "blink.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "keywords": [],
+  "author": "ortc <ortc@realtime.co>",
+  "license": "MIT"
+}

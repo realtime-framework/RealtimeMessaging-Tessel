@@ -1,0 +1,34 @@
+{
+  "name": "realtime-tessel",
+  "version": "1.0.3",
+  "description": "The Realtime Framework Node.js Cloud Messaging Pub/Sub client for Tessel",
+  "homepage": "http://framework.realtime.co/messaging",
+  "keywords": [
+    "tessel",
+    "realtime",
+    "ortc",
+    "server",
+    "library",
+    "messaging",
+    "framework"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "ORTC",
+    "email": "ortc@realtime.co"
+  },
+  "repository": {
+    "type": "website",
+    "url": "https://github.com/realtime-framework/RealtimeMessaging-Tessel"
+  },
+  "dependencies": {
+    "nodejs-websocket": "1.2.1",
+    "request": "2.2.0",
+    "dateformat": "1.0.2-1.2.3"
+  },
+  "devDependencies": {},
+  "main": "index",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
