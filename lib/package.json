@@ -1,6 +1,6 @@
 {
   "name": "realtime-tessel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The Realtime Framework Node.js Cloud Messaging Pub/Sub client for Tessel",
   "homepage": "http://framework.realtime.co/messaging",
   "keywords": [
