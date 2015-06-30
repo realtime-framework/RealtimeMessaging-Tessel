@@ -26,6 +26,6 @@ You might want to use this sample in conjunction with the JavaScript sample (or 
 > **Don't forget to replace `YOUR_APPLICATION_KEY` and `YOUR_APPLICATION_PRIVATE_KEY` with your own application key. If you don't already own a free Realtime® Framework application key, [get one now](https://accounts.realtime.co/signup/).**
 
 ## Documentation
-The SDK API is the same as the Node.js SDK API. Full reference documentation can be found [here](http://messaging-public.realtime.co/documentation/nodejs/2.1.0/OrtcClient.html).
+The Tessel SDK API reference documentation can be found [here](http://messaging-public.realtime.co/documentation/tessel/2.1.0/OrtcClient.html).
 
 The complete Realtime® Messaging reference documentation is available [here](http://framework.realtime.co/messaging/#documentation)
